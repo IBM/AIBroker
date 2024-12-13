@@ -1,0 +1,81 @@
+WONUM,SITEID,DESCRIPTION,PROBLEMCODE,FAILURECODE,WORKTYPE,AI_USEFORTRAINING
+WO_TRAIN10,BEDFORD,Unable to start the equipment,FTS,CE,CM,1
+WO_TRAIN11,BEDFORD,Replace part after failure to start,FTS,CE,CM,1
+WO_TRAIN12,BEDFORD,Repaired after failure to start,FTS,CE,CM,1
+WO_TRAIN13,BEDFORD,Failed to start due to damaged component,FTS,CE,CM,1
+WO_TRAIN14,BEDFORD,Start system failed to function on demand,FTS,CE,CM,1
+WO_TRAIN15,BEDFORD,Investigate start-up failure issue,FTS,CE,CM,1
+WO_TRAIN16,BEDFORD,The component would not start after repeated attempts,FTS,CE,CM,1
+WO_TRAIN17,BEDFORD,Could not run the unit after request to start,FTS,CE,CM,1
+WO_TRAIN18,BEDFORD,Equipment failed to start. Replace control unit,FTS,CE,CM,1
+WO_TRAIN19,BEDFORD,Problem on start-up of the equipment,FTS,CE,CM,1
+WO_TRAIN20,BEDFORD,The valve doesn't open on demand,FTO,CE,CM,1
+WO_TRAIN21,BEDFORD,Valve failed open replace part,FTO,CE,CM,1
+WO_TRAIN22,BEDFORD,Fix valve that is failing to open,FTO,CE,CM,1
+WO_TRAIN23,BEDFORD,Replaced component after valve failed to open,FTO,CE,CM,1
+WO_TRAIN24,BEDFORD,Valve not opening after multiple attempts,FTO,CE,CM,1
+WO_TRAIN25,BEDFORD,Valve stuck in open position,FTO,CE,CM,1
+WO_TRAIN26,BEDFORD,Investigate failure to open when requested,FTO,CE,CM,1
+WO_TRAIN27,BEDFORD,Valve not opening. Repair control unit,FTO,CE,CM,1
+WO_TRAIN28,BEDFORD,Access panel not opening after repeated attempts,FTO,CE,CM,1
+WO_TRAIN29,BEDFORD,Equipment not opening. Replace with new valve,FTO,CE,CM,1
+WO_TRAIN30,BEDFORD,Abnormal vibration is observed,VIB,CE,CM,1
+WO_TRAIN31,BEDFORD,High vibration levels on rotating machinery,VIB,CE,CM,1
+WO_TRAIN32,BEDFORD,Replaced badly fitting component causing high vibration,VIB,CE,CM,1
+WO_TRAIN33,BEDFORD,Check out excessive shaking on mechanical equipment,VIB,CE,CM,1
+WO_TRAIN34,BEDFORD,Abnormal vibration requires equipment replacement,VIB,CE,CM,1
+WO_TRAIN35,BEDFORD,Worn bearing causing high vibration replaced bearing,VIB,CE,CM,1
+WO_TRAIN36,BEDFORD,Troubleshoot high vibration levels in machinery room,VIB,CE,CM,1
+WO_TRAIN37,BEDFORD,Operations report high vibration. Investigated and found failed bearing,VIB,CE,CM,1
+WO_TRAIN38,BEDFORD,Significant vibration reported. Investigated and raised follow up WO to replace vibrating component,VIB,CE,CM,1
+WO_TRAIN39,BEDFORD,Equipment mounting replaced after report of high vibration levels,VIB,CE,CM,1
+WO_TRAIN40,BEDFORD,Flow restriction(s) observed,PLU,CE,CM,1
+WO_TRAIN41,BEDFORD,Replace blocked component,PLU,CE,CM,1
+WO_TRAIN42,BEDFORD,Removed debris and cleaned blocked item,PLU,CE,CM,1
+WO_TRAIN43,BEDFORD,Plugged instrument air line replaced,PLU,CE,CM,1
+WO_TRAIN44,BEDFORD,Troubleshooted system blockage and replaced plugged component,PLU,CE,CM,1
+WO_TRAIN45,BEDFORD,Replaced blocked filter and reset high pressure indication,PLU,CE,CM,1
+WO_TRAIN46,BEDFORD,"Removed, cleaned and replace blocked air filter",PLU,CE,CM,1
+WO_TRAIN47,BEDFORD,Investigate high differential pressure alarm on cooling water system,PLU,CE,CM,1
+WO_TRAIN48,BEDFORD,Plug in lubrication system reported. Flush system and bleed,PLU,CE,CM,1
+WO_TRAIN49,BEDFORD,Cooling water flow is choking due to blocked filter,PLU,CE,CM,1
+WO_TRAIN50,BEDFORD,"Monitored parameter exceeding limits, e.g. High/low alarm",PDE,CE,CM,1
+WO_TRAIN51,BEDFORD,Adjust alarm setting on protection device,PDE,CE,CM,1
+WO_TRAIN52,BEDFORD,Parameter out of range adjusted setting,PDE,CE,CM,1
+WO_TRAIN53,BEDFORD,High pressure warning not operating,PDE,CE,CM,1
+WO_TRAIN54,BEDFORD,Investigate parameter deviation,PDE,CE,CM,1
+WO_TRAIN55,BEDFORD,Check high high alarm,PDE,CE,CM,1
+WO_TRAIN56,BEDFORD,Replace faulty high pressure alarm switch,PDE,CE,CM,1
+WO_TRAIN57,BEDFORD,Operations reported false low pressure alarm. Investigated and replaced sensor,PDE,CE,CM,1
+WO_TRAIN58,BEDFORD,Oil pressure reading high. Requires calibration,PDE,CE,CM,1
+WO_TRAIN59,BEDFORD,Low pressure gauge reading incorrectly,PDE,CE,CM,1
+WO_TRAIN60,BEDFORD,"Material damages (cracks, wear, fracture, corrosion)",STD,CE,CM,1
+WO_TRAIN61,BEDFORD,Visible crack on damaged component needs repair,STD,CE,CM,1
+WO_TRAIN62,BEDFORD,Deformed structure investigated and repaired,STD,CE,CM,1
+WO_TRAIN63,BEDFORD,Inspect cracks and repair as required,STD,CE,CM,1
+WO_TRAIN64,BEDFORD,Damaged mechanism found to be deformed and replaced,STD,CE,CM,1
+WO_TRAIN65,BEDFORD,Inspect structural damage for craking and deformation,STD,CE,CM,1
+WO_TRAIN66,BEDFORD,Corrosion found in structural component requires repair,STD,CE,CM,1
+WO_TRAIN67,BEDFORD,Repair fractured support structure and carry out non destructuve test,STD,CE,CM,1
+WO_TRAIN68,BEDFORD,Damage identifed after inspection of structure,STD,CE,CM,1
+WO_TRAIN69,BEDFORD,Inspect for corrosion. Multiple defects identified,STD,CE,CM,1
+WO_TRAIN70,BEDFORD,External leak is overved and the source of the leak is visible,ELK,CE,CM,1
+WO_TRAIN71,BEDFORD,Replace leaking component,ELK,CE,CM,1
+WO_TRAIN72,BEDFORD,Investigated leak and repaired leaking component,ELK,CE,CM,1
+WO_TRAIN73,BEDFORD,Observed leaking fluid and replaced seal,ELK,CE,CM,1
+WO_TRAIN74,BEDFORD,Minor leak requires investigation,ELK,CE,CM,1
+WO_TRAIN75,BEDFORD,Damaged equipment is causing a leak,ELK,CE,CM,1
+WO_TRAIN76,BEDFORD,Replaced part to eliminate visible leak,ELK,CE,CM,1
+WO_TRAIN77,BEDFORD,Spill on floor. Clean up and investigate source,ELK,CE,CM,1
+WO_TRAIN78,BEDFORD,Fluid on the ground. Suspect external leak,ELK,CE,CM,1
+WO_TRAIN79,BEDFORD,Equipment leaking onto the floor. Clean and repair,ELK,CE,CM,1
+WO_TRAIN80,BEDFORD,"Fix power or signal failure, or software related faillure",PTF,CE,CM,1
+WO_TRAIN81,BEDFORD,Investigate intermittent transmitter output signal,PTF,CE,CM,1
+WO_TRAIN82,BEDFORD,Damaged power supply cable needs replacement,PTF,CE,CM,1
+WO_TRAIN83,BEDFORD,Signal failure warning requires investigation,PTF,CE,CM,1
+WO_TRAIN84,BEDFORD,Loss of signal from control unit replaced transmitter,PTF,CE,CM,1
+WO_TRAIN85,BEDFORD,Fault finding of power supply failure and placed faulty PSU,PTF,CE,CM,1
+WO_TRAIN86,BEDFORD,Damaged wiring in low voltage distribution system needs replacement,PTF,CE,CM,1
+WO_TRAIN87,BEDFORD,Intermitment signal. Faulty wiring found and replaced,PTF,CE,CM,1
+WO_TRAIN88,BEDFORD,Loose connector on terminal tightened,PTF,CE,CM,1
+WO_TRAIN89,BEDFORD,Wiring damage in control room. Replaced with new cable,PTF,CE,CM,1
