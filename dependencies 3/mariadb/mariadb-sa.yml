@@ -1,9 +1,0 @@
----
-apiVersion: v1
-kind: ServiceAccount
-metadata:
-  name: ds-pipelines-mariadb-sa-instance
-  namespace: mariadb
-  labels:
-    app: mariadb-instance
-    component: data-science-pipelines
